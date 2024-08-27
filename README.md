@@ -59,21 +59,24 @@ In this project, we employed a range of statistical tools to analyze our dataset
 💻 Installation
 
 To run this project, you’ll need Python and the following libraries installed:
-	• pip install numpy matplotlib pandas seaborn scipy scikit-learn statsmodels
-The project specifically uses the following modules:
-	• import numpy as np
-	• import matplotlib.pyplot as plt
-	• import pandas as pd
-	• import seaborn as sns
-	• from scipy import stats
-	• from sklearn.model_selection import train_test_split
-	• from sklearn.metrics import accuracy_score
-	• from statsmodels.stats.outliers_influence import variance_inflation_factor
-	• from statsmodels.tools.tools import add_constant
-	• from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
-	• from scipy.spatial.distance import squareform
-	• from scipy.stats import binomtest, expon, gamma, lognorm, beta, norm, kstest, anderson, mannwhitneyu, chi2_contingency
 
+	•	pip install numpy matplotlib pandas seaborn scipy scikit-learn statsmodels
+
+The project specifically uses the following modules:
+
+	•	import numpy as np
+	•	import matplotlib.pyplot as plt
+	•	import pandas as pd
+	•	import seaborn as sns
+	•	from scipy import stats
+	•	from sklearn.model_selection import train_test_split
+	•	from sklearn.metrics import accuracy_score
+	•	from statsmodels.stats.outliers_influence import variance_inflation_factor
+	•	from statsmodels.tools.tools import add_constant
+	•	from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
+	•	from scipy.spatial.distance import squareform
+	•	from scipy.stats import binomtest, expon, gamma, lognorm, beta, norm, kstest, anderson, mannwhitneyu, chi2_contingency
+ 
 🚀 Usage
 
 	1.	Preprocess the data: Follow the steps outlined in the code to clean and prepare your dataset.
